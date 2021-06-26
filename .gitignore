@@ -1,0 +1,21 @@
+#eclipse ignore
+.settings/
+.project
+.classpatch
+*.war
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+# temp file
+*.jargit
+*.log
+*.cache
+*.diff
+*.tep
+*.patch
+.DS_Store
+Thumbs.db
